@@ -1,0 +1,7 @@
+{
+  "id": "kei-maid",
+  "displayName": "Kei Maid",
+  "description": "A compact Codex pet of Kei in a maid outfit, holding a round robot vacuum like the source image.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
+}

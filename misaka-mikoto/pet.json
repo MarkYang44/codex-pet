@@ -1,0 +1,7 @@
+{
+  "id": "misaka-mikoto",
+  "displayName": "Misaka Mikoto",
+  "description": "Pixel-art desktop pet of Misaka Mikoto in her beige school vest outfit with backpack.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "kiyosumi-akira",
+  "displayName": "Kiyosumi Akira",
+  "description": "Pixel desktop pet of Kiyosumi Akira, preserving the reference pose and outfit.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
+}

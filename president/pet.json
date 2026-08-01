@@ -1,0 +1,7 @@
+{
+  "id": "president",
+  "displayName": "President(?)",
+  "description": "Pixel desktop pet of President(?), a calm blonde halo girl in a white ceremonial uniform based on the provided reference.",
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
+}
