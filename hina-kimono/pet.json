@@ -3,5 +3,6 @@
   "displayName": "Hina Kimono",
   "description": "A slender lavender-haired anime woman in an ornate violet kimono, preserving the supplied reference pose and proportions.",
   "spriteVersionNumber": 2,
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
 }

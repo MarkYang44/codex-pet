@@ -3,5 +3,6 @@
   "displayName": "Otogi Maid (pt.2)",
   "description": "A graceful fox-eared anime maid with long ash-blonde twin braids, green eyes, a navy-and-white uniform, and a serving tray.",
   "spriteVersionNumber": 2,
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
 }

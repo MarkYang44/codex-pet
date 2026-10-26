@@ -1,6 +1,8 @@
 {
-    "id":  "kozeki-ui",
-    "displayName":  "Kozeki Ui",
-    "description":  "A pixel-art desktop pet based on the referenced anime schoolgirl, with dark navy hair, blue headband, gold halo, cardigan, white pleated skirt, and a book.",
-    "spritesheetPath":  "spritesheet.webp"
+  "id": "kozeki-ui",
+  "displayName": "Kozeki Ui",
+  "description": "A pixel-art desktop pet based on the referenced anime schoolgirl, with dark navy hair, blue headband, gold halo, cardigan, white pleated skirt, and a book.",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
 }

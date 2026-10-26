@@ -1,7 +1,8 @@
 {
-    "id":  "shirao-eri",
-    "displayName":  "Shirao Eri",
-    "description":  "Pixel desktop pet: Shirao Eri, a white-haired witch-student with oversized red-and-black hat, black academy coat, red bow, red book, and long braid; includes idle, drag, wave, jump, failed, waiting, working, and review animations.",
-    "spritesheetPath":  "spritesheet.webp",
-    "kind":  "person"
+  "id": "shirao-eri",
+  "displayName": "Shirao Eri",
+  "description": "Pixel desktop pet: Shirao Eri, a white-haired witch-student with oversized red-and-black hat, black academy coat, red bow, red book, and long braid; includes idle, drag, wave, jump, failed, waiting, working, and review animations.",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
 }

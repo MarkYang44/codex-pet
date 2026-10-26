@@ -2,6 +2,7 @@
   "id": "al-1s-winter",
   "displayName": "AL-1S Winter",
   "description": "Pixel desktop pet of AL-1S in winter outfit, based on the provided reference pose.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

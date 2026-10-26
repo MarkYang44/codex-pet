@@ -2,6 +2,7 @@
   "id": "aikiyo-fuka",
   "displayName": "Aikiyo Fuka",
   "description": "Pixel desktop pet of Aikiyo Fuka in her pink-and-white kimono look, holding a yellow delivery bag.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

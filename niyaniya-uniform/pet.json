@@ -3,5 +3,6 @@
   "displayName": "Niyaniya Uniform",
   "description": "A slender blonde uniformed girl leaning forward while holding a black floral umbrella, animated as a Codex desktop pet.",
   "spriteVersionNumber": 2,
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
 }

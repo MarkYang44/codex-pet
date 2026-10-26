@@ -2,6 +2,7 @@
   "id": "kurosaki-koyuki",
   "displayName": "Kurosaki Koyuki",
   "description": "Blue Archive pixel pet: Kurosaki Koyuki, a mischievous pink twin-tail girl with a pink gear halo, oversized white jacket, navy skirt, white socks, and pink weapon bag.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

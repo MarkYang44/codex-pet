@@ -2,6 +2,7 @@
   "id": "otogi-maid",
   "displayName": "Otogi Maid",
   "description": "Anime maid desktop pet with large animal ears, ash-brown hair, green eyes, black-and-white frilled maid outfit, and faithful full-body proportions from the reference.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

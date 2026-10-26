@@ -2,6 +2,7 @@
   "id": "hoshino-junior",
   "displayName": "Hoshino Junior",
   "description": "Pixel desktop pet of Hoshino Junior, a pink-haired junior version of Takanashi Hoshino holding a long white-and-black shotgun, based on the provided reference pose.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

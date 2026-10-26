@@ -2,6 +2,7 @@
   "id": "azusa",
   "displayName": "Azusa",
   "description": "Blue Archive pet: Azusa, a reserved white-haired girl in a black-and-white floral dress with a golden halo, rendered as a varied pixel-art desktop companion.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

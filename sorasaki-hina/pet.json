@@ -1,7 +1,8 @@
 {
-    "id":  "sorasaki-hina",
-    "displayName":  "Sorasaki Hina",
-    "description":  "Pixel desktop pet: Sorasaki Hina, a white-haired girl in a black-purple starry dress with purple eyes, dark horns, bat wings, and a violet-black halo; includes idle, drag, wave, jump, failed, waiting, working, and review animations.",
-    "spritesheetPath":  "spritesheet.webp",
-    "kind":  "person"
+  "id": "sorasaki-hina",
+  "displayName": "Sorasaki Hina",
+  "description": "Pixel desktop pet: Sorasaki Hina, a white-haired girl in a black-purple starry dress with purple eyes, dark horns, bat wings, and a violet-black halo; includes idle, drag, wave, jump, failed, waiting, working, and review animations.",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
 }

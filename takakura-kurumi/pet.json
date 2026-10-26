@@ -2,6 +2,7 @@
   "id": "takakura-kurumi",
   "displayName": "Takakura Kurumi",
   "description": "Pixel-style Codex desktop pet of Takakura Kurumi with fox ears, long blonde hair, headset, sailor uniform, shield, and compact rifle.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

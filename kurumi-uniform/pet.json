@@ -2,6 +2,7 @@
   "id": "kurumi-uniform",
   "displayName": "Kurumi Uniform",
   "description": "Pixel desktop pet of Kurumi Uniform: blonde fox-eared schoolgirl with teal eyes, green angular halo, school uniform, loose cardigan, backpack, and sneakers, based on the supplied uniform references.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

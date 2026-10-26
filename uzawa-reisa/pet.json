@@ -2,6 +2,7 @@
   "id": "uzawa-reisa",
   "displayName": "Uzawa Reisa",
   "description": "Blue Archive desktop pet: Uzawa Reisa in a pastel magical idol outfit, based on the provided reference pose.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

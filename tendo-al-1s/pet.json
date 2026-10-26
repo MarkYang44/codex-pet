@@ -2,6 +2,7 @@
   "id": "tendo-al-1s",
   "displayName": "Tendo AL-1S",
   "description": "Pixel-art desktop pet of Tendo AL-1S in her white coat and mechanical-weapon form, with varied expressive animations.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

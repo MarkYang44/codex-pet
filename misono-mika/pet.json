@@ -2,6 +2,7 @@
   "id": "misono-mika",
   "displayName": "Misono Mika",
   "description": "Blue Archive pet: Misono Mika, a pink-haired Trinity Tea Party girl with star halo, white dress, wing ornaments, and white submachine gun, in pixel desktop pet style.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

@@ -2,6 +2,7 @@
   "id": "sexy-seia",
   "displayName": "Sexy Seia",
   "description": "Blue Archive pixel-art desktop pet: a golden fox-eared woman with pink glasses, long curled blonde hair, oversized yellow jacket, white one-piece outfit, golden sandals, and star-tipped ribbon tail.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

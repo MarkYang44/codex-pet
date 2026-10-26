@@ -2,6 +2,7 @@
   "id": "mitsuki-robe",
   "displayName": "Mitsuki Robe",
   "description": "Blue Archive pixel-art desktop pet: Mitsuki in a white floral kimono robe with black fur stole, pink blossom hair ornaments, red halo, handbag, and travel case.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

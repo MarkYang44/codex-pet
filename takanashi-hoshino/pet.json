@@ -2,6 +2,7 @@
   "id": "takanashi-hoshino",
   "displayName": "Takanashi Hoshino",
   "description": "Blue Archive pet: Takanashi Hoshino in her school uniform, rendered as an expressive pixel-art desktop companion.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

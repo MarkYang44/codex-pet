@@ -2,6 +2,7 @@
   "id": "asuma-toki",
   "displayName": "Asuma Toki",
   "description": "Blue Archive desktop pet: Asuma Toki in her black-and-white maid combat outfit, rendered as a compact pixel-art character.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

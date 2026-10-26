@@ -2,6 +2,7 @@
   "id": "yoshino-niko",
   "displayName": "Yoshino Niko",
   "description": "Pixel desktop pet of Yoshino Niko, a pink-haired fox-eared schoolgirl with blue halo, shoulder bag and long weapon, based on the supplied reference image.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

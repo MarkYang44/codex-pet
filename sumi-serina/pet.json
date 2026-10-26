@@ -2,6 +2,7 @@
   "id": "sumi-serina",
   "displayName": "Sumi Serina",
   "description": "Blue Archive pet: Sumi Serina in a red Christmas choir outfit, pixel-art desktop companion based on the provided reference.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

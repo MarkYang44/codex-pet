@@ -2,6 +2,7 @@
   "id": "yuuka-pajama",
   "displayName": "Yuuka Pajama",
   "description": "Blue Archive pet: Yuuka in pale-blue pajamas with a white pillow and dark halo, rendered as a varied pixel-art desktop companion.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }

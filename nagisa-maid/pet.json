@@ -3,5 +3,6 @@
   "displayName": "Nagisa Maid",
   "description": "A slender ash-blonde winged anime maid preserving the supplied heart-hand pose, black-and-white dress, mint accents, flower, and white wings.",
   "spriteVersionNumber": 2,
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
 }

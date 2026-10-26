@@ -2,6 +2,7 @@
   "id": "yuzu-maid",
   "displayName": "Yuzu Maid",
   "description": "Pixel-art desktop pet of Yuzu in a maid outfit, with varied expressive cleaning-themed animations.",
+  "spriteVersionNumber": 1,
   "spritesheetPath": "spritesheet.webp",
   "kind": "person"
 }
