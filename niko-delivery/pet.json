@@ -1,0 +1,8 @@
+{
+  "id": "niko-delivery",
+  "displayName": "Niko Delivery",
+  "description": "Pixel desktop pet of Niko Delivery, a slim pink-haired fox-eared anime delivery girl in visor, blue-gray apron, white shirt, yellow bow, dark tights, and black shoes.",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "person"
+}

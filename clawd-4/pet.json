@@ -1,0 +1,8 @@
+{
+  "id": "clawd",
+  "displayName": "Clawd",
+  "description": "The original pixel crab — Clawd the Claude Code mascot.",
+  "spriteVersionNumber": 1,
+  "spritesheetPath": "spritesheet.webp",
+  "kind": "animal"
+}
