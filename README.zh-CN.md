@@ -19,7 +19,7 @@
 
 ## 动画预览
 
-![六个宠物的实际待机动画：Shirao Eri、Hina Maid、Misono Mika、Plana Ex、Kozeki Maid 和 Otogi Uniform](docs/images/pet-lineup.gif)
+![六个宠物的实际待机动画：Shirao Eri、Hina Maid、Misono Mika、Plana Ex、Kozeki Maid 和 Otogi Uniform](docs/images/pet-lineup-21429874e2.gif)
 
 [Shirao Eri](shirao-eri/) · [Hina Maid](hina-maid/) · [Misono Mika](misono-mika/) · [Plana Ex](plana-ex/) · [Kozeki Maid](kozeki-maid/) · [Otogi Uniform](otogi-uniform/)
 

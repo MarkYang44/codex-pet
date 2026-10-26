@@ -19,7 +19,7 @@
 
 ## Preview
 
-![Six included pets playing their idle animations: Shirao Eri, Hina Maid, Misono Mika, Plana Ex, Kozeki Maid, and Otogi Uniform](docs/images/pet-lineup.gif)
+![Six included pets playing their idle animations: Shirao Eri, Hina Maid, Misono Mika, Plana Ex, Kozeki Maid, and Otogi Uniform](docs/images/pet-lineup-21429874e2.gif)
 
 [Shirao Eri](shirao-eri/) · [Hina Maid](hina-maid/) · [Misono Mika](misono-mika/) · [Plana Ex](plana-ex/) · [Kozeki Maid](kozeki-maid/) · [Otogi Uniform](otogi-uniform/)
 

@@ -1,6 +1,6 @@
 # README preview assets
 
-`pet-lineup.gif` is a presentation export of actual sprite frames already included in this repository. It is not an application screenshot.
+`pet-lineup-21429874e2.gif` is a presentation export of actual sprite frames already included in this repository. It is not an application screenshot.
 
 | Left to right | Source atlas | Version |
 | --- | --- | --- |
