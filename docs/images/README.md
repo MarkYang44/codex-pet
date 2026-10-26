@@ -9,7 +9,7 @@
 | Misono Mika | [misono-mika/spritesheet.webp](../../misono-mika/spritesheet.webp) | 1 |
 | Plana Ex | [plana-ex/spritesheet.webp](../../plana-ex/spritesheet.webp) | 2 |
 | Kozeki Maid | [kozeki-maid/spritesheet.webp](../../kozeki-maid/spritesheet.webp) | 2 |
-| Clawd | [clawd-4/spritesheet.webp](../../clawd-4/spritesheet.webp) | 1 |
+| Otogi Uniform | [otogi-uniform/spritesheet.webp](../../otogi-uniform/spritesheet.webp) | 2 |
 
 The export reads the first six 192 × 208 cells in row 0 (idle), in order, without changing the source atlases. Frames are placed on dark cards with names and version labels. The GIF loops six frames at 160 ms per frame, with a shared 256-color palette. This timing is for the README preview and does not specify the application's playback rate. Output: 1440 × 320 pixels.
 

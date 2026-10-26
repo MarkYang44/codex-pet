@@ -5,7 +5,7 @@
 <p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/pets-83-8F9FFF?style=flat-square" alt="83 个桌宠">
+  <img src="https://img.shields.io/badge/pets-82-8F9FFF?style=flat-square" alt="82 个桌宠">
   <img src="https://img.shields.io/badge/sprite_atlas-v1_%2B_v2-70CFC0?style=flat-square" alt="支持 v1 和 v2 图集">
   <img src="https://img.shields.io/badge/collection-fan--made-D5AD79?style=flat-square" alt="非官方粉丝创作合集">
 </p>
@@ -19,9 +19,9 @@
 
 ## 动画预览
 
-![六个宠物的实际待机动画：Shirao Eri、Hina Maid、Misono Mika、Plana Ex、Kozeki Maid 和 Clawd](docs/images/pet-lineup.gif)
+![六个宠物的实际待机动画：Shirao Eri、Hina Maid、Misono Mika、Plana Ex、Kozeki Maid 和 Otogi Uniform](docs/images/pet-lineup.gif)
 
-[Shirao Eri](shirao-eri/) · [Hina Maid](hina-maid/) · [Misono Mika](misono-mika/) · [Plana Ex](plana-ex/) · [Kozeki Maid](kozeki-maid/) · [Clawd](clawd-4/)
+[Shirao Eri](shirao-eri/) · [Hina Maid](hina-maid/) · [Misono Mika](misono-mika/) · [Plana Ex](plana-ex/) · [Kozeki Maid](kozeki-maid/) · [Otogi Uniform](otogi-uniform/)
 
 预览取自仓库图集中的实际待机帧，播放速度为展示设置。[预览制作说明](docs/images/README.md)。
 
@@ -29,8 +29,8 @@
 
 选一个喜欢的角色，复制它的文件夹，再到 Codex 中选择使用。每个宠物包都包含元数据、透明 WebP 动画图集和独立安装说明，素材本身无需编译。
 
-- **83 个可直接复制的宠物包**，涵盖像素角色、插画风角色和吉祥物。
-- **保留两代图集布局**：71 个 v1、12 个 v2，每个包都明确标注版本。
+- **82 个可直接复制的宠物包**，涵盖像素角色、插画风角色。
+- **保留两代图集布局**：70 个 v1、12 个 v2，每个包都明确标注版本。
 - **统一打包规范**：整个合集采用一致的元数据字段和文件结构。
 
 ## 快速开始
@@ -60,10 +60,10 @@
 
 ## 宠物合集
 
-**共 83 个宠物包 · 71 个 v1 · 12 个 v2。** 点击名称可查看对应宠物的文件和 README；不同服装与角色变体使用独立文件夹。
+**共 82 个宠物包 · 70 个 v1 · 12 个 v2。** 点击名称可查看对应宠物的文件和 README；不同服装与角色变体使用独立文件夹。
 
 <details>
-<summary><strong>展开全部 83 个宠物 · 按文件夹名称排序</strong></summary>
+<summary><strong>展开全部 82 个宠物 · 按文件夹名称排序</strong></summary>
 
 | 宠物 | 文件夹 | 图集 |
 | --- | --- | --- |
@@ -75,7 +75,6 @@
 | [Arona](arona-v1/) | `arona-v1` | v1 |
 | [Asuma Toki](asuma-toki/) | `asuma-toki` | v1 |
 | [Azusa](azusa/) | `azusa` | v1 |
-| [Clawd](clawd-4/) | `clawd-4` | v1 |
 | [Hakari Atsuko](hakari-atsuko/) | `hakari-atsuko` | v1 |
 | [Hina Kimono](hina-kimono/) | `hina-kimono` | v2 |
 | [Hina Maid](hina-maid/) | `hina-maid` | v2 |
@@ -178,7 +177,7 @@
 
 | 图集版本 | 尺寸 | 宠物数量 |
 | --- | --- | --- |
-| v1 | 1536 × 1872 | 71 |
+| v1 | 1536 × 1872 | 70 |
 | v2 | 1536 × 2288 | 12 |
 
 版本标记必须与实际图集布局一致。`spritesheetPath` 统一使用相对文件名 `spritesheet.webp`；`kind` 按角色类型使用 `person` 或 `animal`。已有宠物 ID 保持稳定，可以与文件夹名称不同。
